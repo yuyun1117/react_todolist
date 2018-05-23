@@ -4,7 +4,7 @@ import MainSection from './MainSection'
 
 const initialState = [
   {
-    text: 'CLASS TASK',
+    text: 'TASK',
     completed: false,
     id: 0
   }
